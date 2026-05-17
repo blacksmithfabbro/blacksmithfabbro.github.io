@@ -1,1 +1,7 @@
-
+{
+  "name": "overlay-test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
